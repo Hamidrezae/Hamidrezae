@@ -6,7 +6,7 @@
 <br/>
 <h1 align="center">My Tech Stack 💻</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,angular,vue,nuxtjs,threejs,js,ts,tailwind,bootstrap,materialui,sass,prisma,git,trello"  />
+  <img src="https://skillicons.dev/icons?i=html,css,angular,vue,nuxtjs,threejs,js,ts,tailwind,bootstrap,materialui,sass,prisma,git,github"  />
 </div>
 
 ###
