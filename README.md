@@ -6,25 +6,7 @@
 <br/>
 <h1 align="center">My Tech Stack 💻</h1>
 <div align="center">
-  <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" height="45" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" height="45" alt="angular logo"  />
-  <img width="20" />
-  <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" height="45" alt="vuejs logo"  />
-  <img width="20" />
-  <img src="https://seeklogo.com/images/N/nuxt-logo-64E0472AA8-seeklogo.com.png" height="45" alt="nuxtjs logo"  />
-  <img width="20" />
-  <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" height="45" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="45" alt="materialui logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=git,tailwind,angular,vue,nuxtjs"  />
 </div>
 
 ###
