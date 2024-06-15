@@ -23,6 +23,7 @@
 <a  href="mailto:hamidreza.ebrahimpour@gmail.com"  style="margin-left: 5px;">
     <img  src="https://skillicons.dev/icons?i=gmail" alt="gmail logo"  />
 </a>
+  <br>
   <a href="https://www.linkedin.com/in/hamidreza-ebrahimpour-315663258/"  style="margin-left: 5px;">
     <img src="https://skillicons.dev/icons?i=linkedin"  alt="linkedin logo"  />
   </a>
