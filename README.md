@@ -20,9 +20,9 @@
   <a href="https://www.telegram.com/hamidgdz" target="_blank" style="margin-left: 0.2rem;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="telegram logo"  />
   </a>
-<div style="margin-left: 0.2rem;">
-    <img  target="_blank" src="https://skillicons.dev/icons?i=gmail" href="mailto:hamidreza.ebrahimpour@gmail.com" alt="gmail logo"  />
-</div>
+<a  href="mailto:hamidreza.ebrahimpour@gmail.com"  style="margin-left: 0.2rem;">
+    <img  target="_blank" src="https://skillicons.dev/icons?i=gmail" alt="gmail logo"  />
+</a>
   <a href="https://www.linkedin.com/in/hamidreza-ebrahimpour-315663258/" target="_blank" style="margin-left: 0.2rem;">
     <img src="https://skillicons.dev/icons?i=linkedin"  alt="linkedin logo"  />
   </a>
