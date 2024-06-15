@@ -16,7 +16,7 @@
   <img width="20" />
   <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" height="45" alt="angular logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo"  />
+  <img src="https://www.svgrepo.com/show/439029/vue.svg" height="45" alt="vuejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="45" alt="nuxtjs logo"  />
   <img width="20" />
