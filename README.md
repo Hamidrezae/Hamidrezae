@@ -16,9 +16,9 @@
   <img width="20" />
   <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" height="45" alt="angular logo"  />
   <img width="20" />
-  <img src="https://www.svgrepo.com/show/439029/vue.svg" height="45" alt="vuejs logo"  />
+  <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" height="45" alt="vuejs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="45" alt="nuxtjs logo"  />
+  <img src="https://seeklogo.com/images/N/nuxt-logo-64E0472AA8-seeklogo.com.png" height="45" alt="nuxtjs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
   <img width="20" />
