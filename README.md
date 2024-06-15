@@ -14,16 +14,16 @@
 <br/>
 <h1 align="center">Contact Me 🤙</h1>
 <div align="center">
-  <a href="https://www.instagram.com/hamidrezaebrahimpourr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="33" alt="instagram logo"  />
+  <a href="https://www.instagram.com/hamidrezaebrahimpourr" target="_blank" style="margin-left: 0.2rem;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
   </a>
-  <a href="https://www.telegram.com/hamidgdz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="33" alt="telegram logo"  />
+  <a href="https://www.telegram.com/hamidgdz" target="_blank" style="margin-left: 0.2rem;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="telegram logo"  />
   </a>
-  <a href="mailto:hamidreza.ebrahimpour@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="33" alt="gmail logo"  />
+  <a href="mailto:hamidreza.ebrahimpour@gmail.com" target="_blank" style="margin-left: 0.2rem;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/hamidreza-ebrahimpour-315663258/" target="_blank">
+  <a href="https://www.linkedin.com/in/hamidreza-ebrahimpour-315663258/" target="_blank" style="margin-left: 0.2rem;">
     <img src="https://skillicons.dev/icons?i=linkedin"  alt="linkedin logo"  />
   </a>
 </div>
