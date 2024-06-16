@@ -17,13 +17,12 @@
   <a href="https://www.instagram.com/hamidrezaebrahimpourr" style="margin-left: 5px;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
   </a>
-  <a href="https://www.telegram.com/hamidgdz" style="margin-left: 5px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="telegram logo"  />
+  <a href="https://www.discord.com/users/480317534969659392" style="margin-left: 5px;">
+    <img src="https://skillicons.dev/icons?i=discord" alt="telegram logo"  />
   </a>
-<a  href="mailto:hamidreza.ebrahimpour@gmail.com"  style="margin-left: 5px;">
+  <a  href="mailto:hamidreza.ebrahimpour@gmail.com"  style="margin-left: 5px;"> 
     <img  src="https://skillicons.dev/icons?i=gmail" alt="gmail logo"  />
-</a>
-  <br>
+  </a>
   <a href="https://www.linkedin.com/in/hamidreza-ebrahimpour-315663258/"  style="margin-left: 5px;">
     <img src="https://skillicons.dev/icons?i=linkedin"  alt="linkedin logo"  />
   </a>
