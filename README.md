@@ -20,14 +20,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,angular,vue,nuxtjs,threejs,js,ts,tailwind,bootstrap,materialui,sass,less,prisma,graphql,git,github,gitlab,pinia,reactivex,supabase,firebase,vite,webpack,pnpm,yarn,webstorm,vscode,pug,postman"  />
 </div>
 <br>
-<hr>
+<h1></h1>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hamidrezae&show_icons=true&locale=en" width='45%'  alt="hamidrezae" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezae&" alt="hamidrezae" width='45%'  />
 </div>
-
-<h3 align="center">Connect with me</h3>
-<hr>
+<br>
+<h1 align="center">Connect with me</h1>
 <p align="center">
 <a href="https://linkedin.com/in/hamidreza-ebrahimpour-315663258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamidreza-ebrahimpour-315663258" height="30" width="40" /></a>
 <a href="https://instagram.com/hamidrezaebrahimpourr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamidrezaebrahimpourr" height="30" width="40" /></a>
