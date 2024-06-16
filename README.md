@@ -20,10 +20,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,angular,vue,nuxtjs,threejs,js,ts,tailwind,bootstrap,materialui,sass,less,prisma,graphql,git,github,gitlab,pinia,reactivex,supabase,firebase,vite,webpack,pnpm,yarn,webstorm,vscode,pug,postman"  />
 </div>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidrezae&show_icons=true&locale=en" alt="hamidrezae" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezae&" alt="hamidrezae" /></p>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidrezae&show_icons=true&locale=en" alt="hamidrezae" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezae&" alt="hamidrezae" />
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
