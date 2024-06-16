@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/hamidrezaebrahimpourr">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
   </a>
-  <div  width="50"></div>
+  <div  width="50px"></div>
   <a href="https://www.discord.com/users/480317534969659392" style="margin-left: 5px; text-decoration: none">
     <img src="https://skillicons.dev/icons?i=discord" alt="telegram logo"  />
   </a>
