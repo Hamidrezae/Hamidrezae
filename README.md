@@ -14,9 +14,10 @@
 <br/>
 <h1 align="center">Contact Me 🤙</h1>
 <div align="center">
-  <a href="https://www.instagram.com/hamidrezaebrahimpourr" style="margin-right: 255px; text-decoration: none">
+  <a href="https://www.instagram.com/hamidrezaebrahimpourr">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"  />
   </a>
+  <div  width="50"></div>
   <a href="https://www.discord.com/users/480317534969659392" style="margin-left: 5px; text-decoration: none">
     <img src="https://skillicons.dev/icons?i=discord" alt="telegram logo"  />
   </a>
