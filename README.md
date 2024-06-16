@@ -19,14 +19,17 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,angular,vue,nuxtjs,threejs,js,ts,tailwind,bootstrap,materialui,sass,less,prisma,graphql,git,github,gitlab,pinia,reactivex,supabase,firebase,vite,webpack,pnpm,yarn,webstorm,vscode,pug,postman"  />
 </div>
-
+<br>
+<hr>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidrezae&show_icons=true&locale=en" alt="hamidrezae" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezae&" alt="hamidrezae" />
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
+<hr>
 <p align="center">
-<a href="https://instagram.com/hamidrezaebrahimpourr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamidrezaebrahimpourr" height="20" width="30" /></a>
-<a href="https://discord.gg/480317534969659392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="480317534969659392" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/hamidreza-ebrahimpour-315663258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamidreza-ebrahimpour-315663258" height="30" width="40" /></a>
+<a href="https://instagram.com/hamidrezaebrahimpourr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamidrezaebrahimpourr" height="30" width="40" /></a>
+<a href="https://discord.gg/480317534969659392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="480317534969659392" height="30" width="40" /></a>
 </p>
