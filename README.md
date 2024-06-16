@@ -9,7 +9,7 @@
 
 - 🔭 I’m Work in [ompfinex](ompfinex.com)
 
-- 🌱 I’m currently learning Nuxt **Nuxt, MasteringNuxt Cource**
+- 🌱 I’m currently learning  **Nuxt, MasteringNuxt Cource**
 
 - 💬 Ask me about **Angular,Vue,Nuxt,Gsap**
 
@@ -22,8 +22,8 @@
 <br>
 <hr>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidrezae&show_icons=true&locale=en" width='50%' alt="hamidrezae" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezae&" alt="hamidrezae" width='50%' />
+<img src="https://github-readme-stats.vercel.app/api?username=hamidrezae&show_icons=true&locale=en" width='45%' alt="hamidrezae" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezae&" alt="hamidrezae" width='45%' />
 </div>
 
 <h3 align="center">Connect with me</h3>
