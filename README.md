@@ -22,8 +22,8 @@
 <br>
 <hr>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hamidrezae&show_icons=true&locale=en" width='45%'  height="30"  alt="hamidrezae" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezae&" alt="hamidrezae" width='45%'  height="30" />
+<img src="https://github-readme-stats.vercel.app/api?username=hamidrezae&show_icons=true&locale=en" width='45%'  height="300"  alt="hamidrezae" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezae&" alt="hamidrezae" width='45%'  height="300" />
 </div>
 
 <h3 align="center">Connect with me</h3>
