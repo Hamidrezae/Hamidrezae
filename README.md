@@ -9,8 +9,6 @@
 
 - 🔭 I’m Work in [ompfinex](https://www.ompfinex.com)
 
-- 🌱 I’m currently learning  **Nuxt, MasteringNuxt Cource**
-
 - 💬 Ask me about **Angular,Vue,Nuxt,Threejs**
 
 - 📫 How to reach me **Hamidreza.Ebrahimpour@gmail.com**
