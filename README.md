@@ -15,6 +15,7 @@
 
 - 📫 How to reach me **Hamidreza.Ebrahimpour@gmail.com**
 <br>
+<h1 align="center">Github Stats</h1>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hamidrezae&show_icons=true&locale=en" width='45%'  alt="hamidrezae" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezae&" alt="hamidrezae" width='45%'  />
