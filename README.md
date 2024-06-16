@@ -14,8 +14,8 @@
 - 💬 Ask me about **Angular,Vue,Nuxt,Gsap**
 
 - 📫 How to reach me **Hamidreza.Ebrahimpour@gmail.com**
-<hr>
-<h3 align="center">Languages and Tools</h3>
+<br>
+<h1 align="center">Languages and Tools</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,angular,vue,nuxtjs,threejs,js,ts,tailwind,bootstrap,materialui,sass,less,prisma,graphql,git,github,gitlab,pinia,reactivex,supabase,firebase,vite,webpack,pnpm,yarn,webstorm,vscode,pug,postman"  />
 </div>
