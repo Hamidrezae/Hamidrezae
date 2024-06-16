@@ -28,7 +28,7 @@
 <br>
 <h1 align="center">Connect with me</h1>
 <p align="center">
-<a href="https://linkedin.com/in/hamidreza-ebrahimpour-315663258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamidreza-ebrahimpour-315663258" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamidreza-ebrahimpour-315663258" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="hamidreza-ebrahimpour-315663258" height="30" width="40" /></a>
   <a href="https://instagram.com/hamidrezaebrahimpourr" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="hamidrezaebrahimpourr" height="100%" width="40" /></a>
-<a href="https://discord.comm/users/480317534969659392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="480317534969659392" height="30" width="40" /></a>
+<a href="https://discord.comm/users/480317534969659392" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="480317534969659392" height="30" width="40" /></a>
 </p>
