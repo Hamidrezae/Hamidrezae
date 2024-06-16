@@ -20,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,angular,vue,nuxtjs,threejs,js,ts,tailwind,bootstrap,materialui,sass,less,prisma,graphql,git,github,gitlab,pinia,reactivex,supabase,firebase,vite,webpack,pnpm,yarn,webstorm,vscode,pug,postman"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidrezae&show_icons=true&locale=en&layout=compact" alt="hamidrezae" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidrezae&show_icons=true&locale=en" alt="hamidrezae" /></p>
 
