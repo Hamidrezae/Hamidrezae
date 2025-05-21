@@ -9,7 +9,7 @@
 
 - 🔭 I’m Work in [ompfinex](https://www.ompfinex.com)
 
-- 💬 Ask me about **Angular,Vue,Nuxt,Threejs**
+- 💬 Ask me about **Angular,React,Next,Vue,Nuxt,Threejs,Nodejs,Express**
 
 - 📫 How to reach me **Hamidreza.Ebrahimpour@gmail.com**
 <br>
