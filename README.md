@@ -32,6 +32,7 @@
 <a href="https://discord.comm/users/480317534969659392" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="480317534969659392" /></a>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=ali-smz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamidrezae/hamidrezae/output/github-snake-dark.svg" />
